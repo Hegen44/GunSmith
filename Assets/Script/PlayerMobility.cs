@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerMobility : MonoBehaviour {
+public class PlayerMobility : Gun
+{
 
     void FixedUpdate()
     {
